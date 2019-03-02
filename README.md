@@ -1,7 +1,7 @@
 # RelatedDeeplearningReview
 Collect reviews of the related DeepLearning
 
-|Tag|Document title|Published|Source|Area|Comment|other|
+|Tag|Document title|Published|Source|Area|    Comment        |other|
 |:--|:--|:--|:--|:--|:--|:--|
 |Meta Learning|Learning to Learn with Gradients|2018|[https://cloudfront.escholarship.org/dist/prd/content/qt0987d4n3/qt0987d4n3.pdf](https://cloudfront.escholarship.org/dist/prd/content/qt0987d4n3/qt0987d4n3.pdf)||作者Chelsea Finn，现任Google Brain研究科学家，同时也是伯克利人工智能研究实验室(BAIR)的博士后。其博士毕业于伯克利计算机系，拥有强大的学术背景，可以算是AI圈最牛逼的博士之一了。她的博士论文——基于梯度的元学习（Learning to Learn with Gradients）很值得一读，该论文系统性地阐述了Meta Learning以及她提出的MAML的方法和相关改进。作者从Meta Learning问题出发，然后提出了MAML理论，再进行一系列基于该理论的应用尝试。感兴趣的同学可以仔细品味这一系统性的博士论文和其代表性工作。|链接：链接：https://pan.baidu.com/s/1A9Hs3kllpIppXBNqrmYqVA 提取码：x0np |
 |Python|Python进阶|2018|http://interpy.eastlakeside.com/||《Intermediate Python》的中文译本，IntermediatePython这本书具有如下几个优点：简单、易读、易译。这些都不是重点，重点是：它是一本开脑洞的书。无论你是Python初学者，还是Python高手，它显现给你的永远是Python里最美好的事物。|英文版：http://book.pythontips.com/en/latest/||
